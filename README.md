@@ -5,14 +5,16 @@ These are my personal decks for use with Tabletop Simulator
 
 ## Installation
 
+1. [Download this project](https://github.com/smoak/tts-mtg-decks/archive/master.zip) as a ZIP file.
+
 ### Mac OS X
 
-Save these files into `~/Library/Tabletop Simulator/Saves/Saved Objects`
+Extract the zip into `~/Library/Tabletop Simulator/Saves/Saved Objects`
 
 ### Windows
 
-Save these files into `C:\Documents\My Games\Tabletop Simulator\Saves\Saved Objects`
+Extract the zip into `C:\Documents\My Games\Tabletop Simulator\Saves\Saved Objects`
 
 ### Linux
 
-Save these files into `~/.local/share/Tabletop Simulator/Saves/Saved Objects`
+Extract the zip into `~/.local/share/Tabletop Simulator/Saves/Saved Objects`
