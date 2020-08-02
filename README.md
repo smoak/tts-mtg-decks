@@ -12,3 +12,7 @@ Save these files into `~/Library/Tabletop Simulator/Saves/Saved Objects`
 ### Windows
 
 Save these files into `C:\Documents\My Games\Tabletop Simulator\Saves\Saved Objects`
+
+### Linux
+
+Save these files into `~/.local/share/Tabletop Simulator/Saves/Saved Objects`
